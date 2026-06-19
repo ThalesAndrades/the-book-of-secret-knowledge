@@ -72,6 +72,7 @@ Distribuição das **914 entradas** entre os 15 capítulos:
 > linhas** do documento (≈ linhas 1661–4442).
 
 ### Maiores subseções
+
 | Entradas | Subseção |
 |---:|---|
 | 56 | Pentesters arsenal tools |
@@ -108,7 +109,7 @@ maioria dos 403/429/503 são bloqueios automáticos (não quebras reais), a saú
 efetiva ultrapassa **90%** — excelente para uma lista deste tamanho e idade.
 
 ### 3.1 Links quebrados reais — `404` (candidatos a correção/remoção)
-```
+```text
 http://malc0de.com/database/
 http://sandbox.onlinephpfunctions.com/
 http://www.pc-help.org/obscure.htm
@@ -137,7 +138,7 @@ https://www.trustedsec.com/category/articles/
 > ZAP deve migrar para `https://www.zaproxy.org/`.
 
 ### 3.2 Falha de conexão / DNS — `000` (provavelmente descontinuados)
-```
+```text
 http://blog.safebuff.com/2016/07/03/SSRF-Tips/index.html
 http://kb.entersoft.co.in/          http://mail2tor.com/
 http://shell-storm.org/repo/CTF/    http://www.vclfiddle.net/
@@ -160,7 +161,7 @@ https://www.hackergateway.com/      https://www.peerlyst.com/posts/...
 > (bloqueiam clientes não-navegador). Recomenda-se verificação manual.
 
 ### 3.3 Redirecionamentos `301` (atualizar para a URL final)
-```
+```text
 http://dtrace.org/blogs/about/      https://dnstable.com/
 https://findsubdomains.com/         https://www.ssllabs.com/ssltest/viewMyClient.html
 ```
